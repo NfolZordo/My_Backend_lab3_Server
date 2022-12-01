@@ -10,7 +10,6 @@ public class Subject {
     private String facultyName;
     private String teacherName;
 
-
     public Subject(String name, String facultyName, String teacherName) {
         this.name = name;
         this.facultyName = facultyName;
